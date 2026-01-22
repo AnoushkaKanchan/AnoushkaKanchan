@@ -23,7 +23,7 @@ I believe in learning by building, staying consistent, and leveling up one proje
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/anoushka-kanchan-89b159396
-- GitHub: [@Anoushka_Kanchan]((https://github.com/Anoushka_Kanchan))
+- GitHub: [@AnoushkaKanchan]((https://github.com/Anoushka_Kanchan))
 
 
 
