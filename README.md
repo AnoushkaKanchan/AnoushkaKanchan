@@ -22,7 +22,7 @@ I believe in learning by building, staying consistent, and leveling up one proje
 - Learning development with proper structure and consistency  
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/anoushka-kanchan-89b159396
+- LinkedIn: linkedin.com/in/anoushka-kanchan-33a5813a9
 - GitHub: [@AnoushkaKanchan]((https://github.com/Anoushka_Kanchan))
 
 
