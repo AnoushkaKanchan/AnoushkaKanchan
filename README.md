@@ -18,8 +18,9 @@ I'm looking for a technical internship where I can contribute directly to real-w
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Java (advancing) · JavaScript (ES6+) · HTML5 · CSS3 |
+| **Languages** | Java (advancing) · JavaScript (ES6+) · Python (learning) · HTML5 · CSS3 |
 | **Frameworks & Platforms** | React.js · Java Spring Boot · REST APIs · Node.js (learning) |
+| **AI / ML** | Python · NumPy · Pandas · Scikit-learn · Matplotlib *(actively learning)* |
 | **Tools** | Git · GitHub · VS Code · Chrome DevTools · Vercel · Railway |
 | **Fundamentals** | OOP · Interface-based Architecture · State Management · Input Validation · Debugging |
 | **Problem Solving** | Arrays · Strings · Linked Lists · Algorithmic Thinking · DSA in Java |
@@ -72,5 +73,6 @@ Shri G.S. Institute of Technology and Science, Indore
 ## 📌 A Few More Things
 
 - Actively levelling up DSA in Java for stronger fundamentals and competitive programming readiness
-- Open to frontend, full-stack, and backend roles — comfortable picking up any new stack a team needs
+- Currently exploring AI/ML with Python — working through core libraries (NumPy, Pandas, Scikit-learn) and building toward hands-on ML projects
+- Open to frontend, full-stack, backend, and AI/ML-adjacent roles — comfortable picking up any new stack a team needs
 - Thrive in fast-paced, collaborative environments with a culture of continuous learning
